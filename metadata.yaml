@@ -1,5 +1,5 @@
 homepage: "https://www.raventic.com"
 documentation: "https://doc.raventic.dev/analytics/"
 versions:
-  - sha: 6788df0ac97f81976a57952f607c255393ea5fba
+  - sha: 010de30c142e160db54fd6b193798beea43aefd4
     changeNotes: Initial version
